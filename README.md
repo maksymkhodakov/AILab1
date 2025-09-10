@@ -3,7 +3,7 @@
 ## студента групи ШІ Ходакова Максима Олеговича
 
 ### _Задача: Класифікація зображень одягу з датасету та оцінка роботи моделей_
-### ***Датасет***: 
+### ***Інформація про датасет***: 
 https://github.com/zalandoresearch/fashion-mnist  
 https://www.kaggle.com/code/jeegarmaru/fashion-mnist-keras/input  
 https://en.wikipedia.org/wiki/Fashion_MNIST  
