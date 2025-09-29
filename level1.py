@@ -422,5 +422,6 @@ def main():
         print("Графіки вимкнено (--plots none)")
 
 
+# ЗАПУСК: python level1.py
 if __name__ == "__main__":
     main()
